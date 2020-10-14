@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/BackGround.png</file>
+        <file>images/enemy.png</file>
+        <file>images/EnemyBullet.png</file>
+        <file>images/MyBullet.png</file>
+        <file>images/MyCraft.png</file>
+        <file>images/SpecialEnemy.png</file>
+        <file>images/SpecialEnemyBullet.png</file>
+        <file>images/start.png</file>
+        <file>images/medicine.png</file>
+        <file>music/croatian.mp3</file>
+        <file>music/devil.mp3</file>
+        <file>music/angel.mp3</file>
+        <file>music/shadowgraph.mp3</file>
+        <file>images/BlueEnemy.png</file>
+        <file>images/BlueMedicine.png</file>
+    </qresource>
+</RCC>
